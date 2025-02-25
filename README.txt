@@ -1,21 +1,45 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+ README
+======
+
+Portfolio Evaluation for AI Automations Solution (AIAS)
+--------------------------------------------------------
+
+This portfolio evaluation showcases the innovative AI Automations Solution, highlighting its capabilities in streamlining processes and automating complex tasks. Designed with a modern, article-oriented layout, this evaluation emphasizes a rich visual experience with dynamic interactions and engaging content.
+
+License
+-------
+Free for review and use under the MIT License. For detailed license terms, please see [LICENSE](LICENSE).
+
+Overview
+--------
+This portfolio evaluation reflects our commitment to excellence and innovation through:
+- **Advanced Automation:** Harnessing cutting-edge AI to optimize and streamline operations.
+- **User-Centered Design:** Focusing on intuitive interfaces and engaging user experiences.
+- **Scalability & Flexibility:** Built to adapt and excel across diverse applications and industries.
+
+Visuals & Features
+------------------
+- **Immersive Backgrounds:** Featuring high-quality imagery to evoke a sense of innovation.
+- **Responsive Design:** Seamlessly optimized for all devices and screen sizes.
+- **Dynamic Effects:** Incorporating modern scroll and parallax effects to enhance storytelling.
+
+Credits
+-------
+- **Design Inspiration:** Inspired by the creative approaches of modern web design, including HTML5 UP.
+- **Core Technologies:**
+  - jQuery (jquery.com)
+  - Custom AI modules developed for AI Automations Solution
+  - Modern web technologies ensuring a smooth and dynamic experience
+- **Additional Contributions:**
+  - Special thanks to industry leaders and the community for continuous inspiration and support.
+
+Contact
+-------
+For further inquiries or collaboration opportunities, please reach out at:
+Pierre Edouard Fils – epierrefils@gmail.com  
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+Enjoy exploring the potential of AI-driven automation and discover how AIAS can transform the future of workflow efficiency!
 
 
 Credits:
